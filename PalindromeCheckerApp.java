@@ -27,7 +27,7 @@ public class PalindromeCheckerApp {
         System.out.println("Version : " + APP_VERSION);
     }
 
-    // UC2: Check and display result for a hardcoded palindrome string
+    
     private static void checkHardcodedPalindrome() {
         String input = "madam";
         boolean result = isPalindrome(input);
